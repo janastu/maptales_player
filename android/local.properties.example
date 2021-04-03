@@ -1,0 +1,4 @@
+sdk.dir=/home/arun/Android/Sdk
+flutter.sdk=/home/arun/Apps/flutter
+flutter.buildMode=release
+flutter.versionName=0.0.1
